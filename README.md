@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abbas Makasarwala</h1>
-<h3 align="center">I'm a passionate Data Science,AI/ML engineer</h3>
+<h3>I'm a passionate Data Science,AI/ML engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasmakasarwala-786&label=Profile%20views&color=0e75b6&style=flat" alt="abbasmakasarwala-786" /> </p>
+💫 About Me:<br/>
+    Working on: Machine Learning and AI<br/>
+    Collaborating on: projects that push boundaries! 🚀<br/>
 
-- 📫 How to reach me **abbasmakasarwala1303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abbas-makasarwala-4834b929a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas makasarwala" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/abbas makasarwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbas makasarwala" height="30" width="40" /></a>-->
 <a href="https://leetcode.com/u/Abbas_Makasarwala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abbas makasarwala" height="30" width="40" /></a> 
+<a href="mailto:abbasmakasarwala1@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,8 +21,8 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasmakasarwala-786&show_icons=true&locale=en&layout=compact" alt="abbasmakasarwala-786" /></p>
-<br/>
+
+
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasmakasarwala-786&show_icons=true&locale=en" alt="abbasmakasarwala-786" /></p>
 <br/>
