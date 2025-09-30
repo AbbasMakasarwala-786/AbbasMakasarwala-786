@@ -12,7 +12,7 @@
 <!-- <a href="https://kaggle.com/abbas makasarwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbas makasarwala" height="30" width="40" /></a>-->
 <a href="https://leetcode.com/u/Abbas_Makasarwala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abbas makasarwala" height="30" width="40" /></a> 
 <a href="mailto:abbasmakasarwala1@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"></a>
-
+<a href="https://minimalistic-portfolio-sigma.vercel.app/"><img src="https://github.com/AbbasMakasarwala-786/AbbasMakasarwala-786/blob/main/portfolio.png" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
